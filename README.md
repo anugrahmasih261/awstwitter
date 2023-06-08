@@ -1,11 +1,12 @@
-# Twitter
+# Twitter with AWS 
 
 
 
-[Live Heroku Deployment]. (https://twitter-clone-anugrah.herokuapp.com/)
+[Live AWS EC2 Deployment]. (http://ec2-13-48-46-51.eu-north-1.compute.amazonaws.com:8000/)
 
 
 
 ##Screenshort
 
-![Screenshot 2022-09-16 at 10 34 11 PM](https://user-images.githubusercontent.com/65607767/190691827-c518aa18-9df9-4609-969b-8269dc1ff7b3.png)
+
+<img width="1324" alt="awsce2" src="https://github.com/anugrahmasih261/awstwitter/assets/65607767/0d57331a-b261-4112-b807-549e1fdfd2cd">
