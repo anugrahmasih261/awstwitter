@@ -2,7 +2,7 @@
 
 
 
-[Live AWS EC2 Deployment]. (http://ec2-13-48-46-51.eu-north-1.compute.amazonaws.com:8000/)
+[Live AWS EC2 Deployment]. (http://ec2-13-48-86-60.eu-north-1.compute.amazonaws.com/)
 
 
 
