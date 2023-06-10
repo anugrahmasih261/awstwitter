@@ -2,7 +2,7 @@
 
 
 
-[Live AWS EC2 and S3 Deployment](http://ec2-13-48-86-60.eu-north-1.compute.amazonaws.com/)
+[LIVE AWS EC2 and S3 Deployment with POSTGRESQL](http://ec2-13-48-86-60.eu-north-1.compute.amazonaws.com/)
 
 
 
