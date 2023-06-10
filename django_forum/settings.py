@@ -100,11 +100,11 @@ WSGI_APPLICATION = 'django_forum.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'awspostgresql',
-        'USER': 'mysuperuser',
-        'HOST': 'awspostgresql.cywa6zcaza4i.eu-north-1.rds.amazonaws.com',
+        'NAME': '',
+        'USER': '',
+        'HOST': '',
         'PORT': 5432,
-        'PASSWORD': 'awspostgresql',
+        'PASSWORD': '',
     }
 }
 
@@ -162,9 +162,9 @@ STATICFILES_DIRS = [
 #the cloud_name and api_key and api_secret can be found at dashboard
 
 cloudinary.config( 
-  cloud_name = "dzsapfsfo",  
-  api_key = "444824947255471", 
-  api_secret = "4_i8fdf7sjjoY6EG5Y7-YHzS35E",
+  cloud_name = "",  
+  api_key = "", 
+  api_secret = "",
   #secure = true
 )
 
@@ -185,9 +185,9 @@ STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
 
 # aws settings for s3 storage settings 
 # this one comes from IAM user where you find this on aws
-AWS_ACCESS_KEY_ID = 'AKIA3APNZ262DDU6QPGI'   # to get this go to aws click on home page create iam user by searching 
-AWS_SECRET_ACCESS_KEY = '0nABc1TgNLZM8rbIq0G5WYLpjBzP5KRBfRZctdhi'  # this one from user
-AWS_STORAGE_BUCKET_NAME = 'masihaws'   # your bucket name here 
+AWS_ACCESS_KEY_ID = ''   # to get this go to aws click on home page create iam user by searching 
+AWS_SECRET_ACCESS_KEY = ''  # this one from user
+AWS_STORAGE_BUCKET_NAME = ''   # your bucket name here 
 AWS_S3_SIGNATURE_NAME = 's3v4',   # this will be by default
 AWS_S3_REGION_NAME = 'Asia Pacific (Mumbai) ap-south-1'
 AWS_S3_FILE_OVERWRITE = False
